@@ -1,0 +1,3 @@
+09-07-2024;Grocery shopping;1500.00;E
+05-07-2024;Salary of July;50000.00;I
+29-05-2024;Monthly fare ;500.00;E
